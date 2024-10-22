@@ -1,3 +1,2 @@
 all:
-	g++ main.cpp -o hash -lcrypto++
-	
+	g++ main.cpp -o cipher -lcrypto++
